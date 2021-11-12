@@ -18,7 +18,7 @@ function App() {
   };
 
   return (
-    <div className="app">
+    <div className="App">
       <h1>Todo List</h1>
       <form onSubmit={handleSubmit}> 
         <input
